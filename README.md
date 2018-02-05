@@ -11,6 +11,7 @@ CSCE 470 Team project - A crawler program to retrieve essential information from
 
 ## Background
 
+This project's goal is to build a data crawler program to retrieve data from Steam website. These data will be kept in our form of a database, and will be used by another program to build a search engine.
 
 ### Installation Instructions
 
