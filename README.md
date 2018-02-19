@@ -41,6 +41,7 @@ Give an example
 
 ## Acknowledgments
 
+* Big thanks to [ANDRE PERUNICIC](https://github.com/prncc/steam-scraper) for making the crawler available for reference. 
 * Steam
 * Ben Hu Phd 
 
