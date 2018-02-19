@@ -4,7 +4,7 @@ CSCE 470 Team project - A crawler program to retrieve essential information from
 
 ## Authors
 
-* **Juan Duran** - *Contributor* - [Juan's Github](https://github.com/juan-duran26)
+* **Juan Duran** - *Contributor* - [Juan's Github](https://github.com/hueytlatoani)
 * **Anh Nguyen** - *Contributor* - [Anh's Github](https://github.com/harryluffy)
 * **Han Hong** - *Contributor* - [Hong's Github](https://github.com/hongsolos)
 
