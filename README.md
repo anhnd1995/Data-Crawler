@@ -1,7 +1,6 @@
 # Steam Data Crawler
 
 CSCE 470 Team project - A crawler program to retrieve essential information from Steam.com
-[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)]()
 
 ## Authors
 
