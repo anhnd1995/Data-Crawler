@@ -34,6 +34,11 @@ Step 5: Crawl the data using this command. All crawled will be retrieved in real
 ```
 scrapy crawl products -o output/products_all.jl --logfile=output/products_all.log --loglevel=INFO -s JOBDIR=output/products_all_job -s HTTPCACHE_ENABLED=False
 ```
+#### Review Data Crawling
+First, all review urls from crawled products must be extracted and exported to a text file using split_review_url script in script folder. Once generated a url text file, we can then call scrapy to start crawling reviews data.
+```
+scrapy crawl reviews -o review.jl ...
+```
 
 ## Timeline
 
